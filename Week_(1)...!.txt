@@ -1,0 +1,23 @@
+1) Download Python 
+2) Website_URL_(python.org)
+
+3) Download Anaconda Navigator
+4) Website_URL_(https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe)
+
+5) Install OpenCV
+6) Goto Anaconda Navigator Open_(CMD.exe Prompt)
+7) Command_(python get-pip.py)
+8) Command_(pip install opencv-contrib-python)
+9) Command_(pip install opencv-python)
+
+10) Goto Anaconda Navigator Open_(NoteBook Jupytar)
+11) Then Click New_(Python3)
+12) Jupytar NoteBook Inside Run Python Code
+
+13) Bleed AI Python Crash Course:
+
+14) Bleed_AI_Website_URL_(https://courses.bleedai.com/lessons/python-crash-course/)
+
+15) Online NoteBook Google Colab:
+
+16) Google_Colab_NoteBook_URL_(https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index)
